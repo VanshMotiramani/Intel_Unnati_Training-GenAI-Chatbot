@@ -1,4 +1,4 @@
-# Intel-Unnati-Industrial Training Mistral AI 7B Instruct Chatbot
+# Intel-Unnati-Industrial Training Mistral AI 7B Chatbot
 
 This is a fine-tuned GPT-based chatbot using the Mistral AI 7B Instruct model. The model has been fine-tuned on the Stanford Alpaca dataset and is available on Hugging Face. This project is a part of the Intel Unnati training - Introduction to GenAI and Simple LLM Inference on CPU, as well as the finetuning of the model.
 
